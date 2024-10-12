@@ -50,3 +50,13 @@ a:hover {
   width: 100%;
   max-width: 800px;
 }
+
+.parent {
+  width: 100px;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
