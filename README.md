@@ -1,2 +1,1 @@
-A test repository for learning Django based on the teachings from the following tutorial:
-https://www.youtube.com/watch?v=qcJZN1pvG6A&list=PL0Zuz27SZ-6NamGNr7dEqzNFEcZ_FAUVX&ab_channel=DaveGray
+A basic blog application created with a Vanilla JavaScript, HTML, and CSS based frontend and a Python/Django based backend.
